@@ -1,0 +1,13 @@
+.DS_Store
+/.vscode
+fileserver_fifo
+fileserver_fifo.dSYM
+fileserver_pipe.dSYM
+fileserver_pipe
+server/fileserver_socket.dSYM
+server/echoserver_iterative.dSYM
+server/echoserver.dSYM
+server/echoserver
+server/fileserver_socket
+server/fileserver_socket
+server/echoserver_iterative
